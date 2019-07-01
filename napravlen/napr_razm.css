@@ -1,5 +1,6 @@
 .central{
-    margin: 50px 2em;
+    margin: 50px 2em 10em 2em;
+
     /* background: gray; */
 }
 .fir-col{
@@ -35,9 +36,12 @@
 .rectangle{
     position: relative;
     width: auto;
+    padding: 10px !important;
     height: 60px;
-    margin: 25px 0.75em;
+    margin: auto;
     border-radius: .1rem !important;
+    list-style-type: none !important; 
+    /* vert-align: center; */
 
 
     background: #FFFFFF;
@@ -55,7 +59,8 @@
     margin-bottom: 30px;
 }
 .amg{
-    height: 7000px;
+    position: relative;
+    height: auto;
     background: url(name.png) no-repeat;
     background-size: cover;
 }
@@ -70,7 +75,7 @@
     font-size:1.2vw !important;
 }
 .resize-img{
-    width: 30%;
+    width: 10%;
 }
 .text-original{
     font-size:1.2vw !important;
@@ -81,4 +86,54 @@
 }
 .num-content{
     margin: 0 25%;
+}
+.img-bok{
+    padding: 2px;
+    width: 30%;
+}
+.imga-1{
+    padding: 70px 0 0 0;
+    position: absolute;
+    width: 100%;
+}
+
+.imga-2{
+    padding: 3em 0 0 0 ;
+    position: absolute;
+    width: 100%;
+}
+
+.imga-2{
+    padding: 31em 0 0 0 ;
+    position: absolute;
+    width: 100%;
+}
+.listers{
+
+}
+li span{
+    color: black;
+}
+li{
+    list-style-type: square;
+    color: #FCC719;
+}
+.name-arrow{
+    color: #FCC719;
+    padding: auto !important;
+}
+.nav-item{
+    list-style-type: none !important;
+}
+.imager{
+    display: inline-block;
+    width: 50px;
+}
+.tecashi{
+    display: inline-block;
+    vertical-align: center;
+}
+.childer{
+    padding: 0 30%; 
+    text-align: right;
 }
