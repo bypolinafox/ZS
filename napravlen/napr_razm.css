@@ -1,0 +1,84 @@
+.central{
+    margin: 50px 2em;
+    /* background: gray; */
+}
+.fir-col{
+    /* background: red; */
+    /* margin-right: 2em; */
+    margin-right: auto !important; 
+}
+.two-col{
+    margin-right: auto !important; 
+    /* width: auto !important; */
+    background: rgb(0, 255, 64);
+}
+.three-col{
+    margin-right: 8em !important; 
+    /* background: rgb(238, 255, 0); */
+}
+
+/* квадрат */
+.to-resize{
+    
+}
+.as{
+    color: #182552;    
+    font-size:1.75vw !important;
+}
+.as:hover{
+    color: #ffffff;
+}
+.no_size{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.rectangle{
+    position: relative;
+    width: auto;
+    height: 60px;
+    margin: 25px 0.75em;
+    border-radius: .1rem !important;
+
+
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle:hover{ 
+    background: #FCC719;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    }
+/* Третий блок */
+.named{
+    text-align: center;
+    font-size:3vw !important;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.amg{
+    height: 7000px;
+    background: url(name.png) no-repeat;
+    background-size: cover;
+}
+.oned{
+    margin: 0 1em;
+    width: auto;
+}
+.child{
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size:1.2vw !important;
+}
+.resize-img{
+    width: 30%;
+}
+.text-original{
+    font-size:1.2vw !important;
+}
+.text-big{
+    font-weight: bold;
+    font-size:1.2vw !important;
+}
+.num-content{
+    margin: 0 25%;
+}
