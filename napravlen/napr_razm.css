@@ -1,23 +1,8 @@
 .central{
-    margin: 50px 2em 10em 2em;
+    margin: 50px 2em 40px 2em;
 
     /* background: gray; */
 }
-.fir-col{
-    /* background: red; */
-    /* margin-right: 2em; */
-    margin-right: auto !important; 
-}
-.two-col{
-    margin-right: auto !important; 
-    /* width: auto !important; */
-    background: rgb(0, 255, 64);
-}
-.three-col{
-    margin-right: 8em !important; 
-    /* background: rgb(238, 255, 0); */
-}
-
 /* квадрат */
 .to-resize{
     
@@ -29,16 +14,12 @@
 .as:hover{
     color: #ffffff;
 }
-.no_size{
-    padding: 0px !important;
-    margin: 0px !important;
-}
 .rectangle{
     position: relative;
     width: auto;
     padding: 10px !important;
-    height: 60px;
-    margin: auto;
+    /* height: 60px; */
+    margin: 20px 0;
     border-radius: .1rem !important;
     list-style-type: none !important; 
     /* vert-align: center; */
@@ -78,7 +59,7 @@
     width: 10%;
 }
 .text-original{
-    font-size:1.2vw !important;
+    font-size:1.5vw !important;
 }
 .text-big{
     font-weight: bold;
@@ -93,19 +74,13 @@
 }
 .imga-1{
     padding: 70px 0 0 0;
-    position: absolute;
+    /* position: absolute; */
     width: 100%;
 }
 
 .imga-2{
     padding: 3em 0 0 0 ;
-    position: absolute;
-    width: 100%;
-}
-
-.imga-2{
-    padding: 31em 0 0 0 ;
-    position: absolute;
+    /* position: absolute; */
     width: 100%;
 }
 .listers{
@@ -136,4 +111,11 @@ li{
 .childer{
     padding: 0 30%; 
     text-align: right;
+}
+.no_size{
+    padding: 0 0 0 0 !important;
+    margin: auto !important;
+}
+.no_size2{
+    padding: 0 0 0 40px !important;
 }
