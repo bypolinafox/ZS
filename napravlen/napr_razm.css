@@ -1,8 +1,11 @@
 .central{
     margin: 50px 4em 20px 2em;
-
-    /* background: gray; */
 }
+
+.central_2{
+    margin: 10px 4em 20px 2em;
+}
+
 /* квадрат */
 .to-resize{
 }
@@ -57,21 +60,25 @@
     font-size:1.5vw !important;
 }
 .resize-img{
-    width: 10%;
+    width: 6%;
+    padding: 11px 0 11px 0;
 }
 .text-original{
-    font-size:1.5vw !important;
+    font-size:1.3vw !important;
 }
 .text-big{
     font-weight: bold;
-    font-size:1.2vw !important;
+    font-size:1.4vw !important;
+}
+.text-bigy{
+    font-size:2vw !important;
 }
 .num-content{
     margin: 0 25%;
 }
 .img-bok{
     padding: 2px;
-    width: 30%;
+    width: 20%;
 }
 .imga-1{
     padding: 70px 0 0 0;
@@ -84,6 +91,13 @@
     /* position: absolute; */
     width: 100%;
 }
+
+.imga-3{
+    padding: 6em 0 0 0 ;
+    /* position: absolute; */
+    width: 100%;
+}
+
 .listers{
 
 }
@@ -121,6 +135,10 @@ li{
 .no_size2{
     padding: 0 0 0 40px !important;
 }
+.cent{
+    margin:0 30% 0 20%;
+    width:50%;
+}
 .rig{
     float: right;
     text-align: right;
@@ -130,4 +148,7 @@ li{
 }
 .pad-10l{
     padding-left: 50px; 
+}
+.sizo{
+    height: 60px !important;
 }
