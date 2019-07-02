@@ -1,11 +1,13 @@
 .central{
-    margin: 50px 2em 40px 2em;
+    margin: 50px 4em 20px 2em;
 
     /* background: gray; */
 }
 /* квадрат */
 .to-resize{
-    
+}
+.lef{
+    float: left;
 }
 .as{
     color: #182552;    
@@ -34,7 +36,7 @@
     }
 /* Третий блок */
 .named{
-    text-align: center;
+    text-align: left;
     font-size:3vw !important;
     margin-top: 25px;
     margin-bottom: 30px;
@@ -46,14 +48,13 @@
     background-size: cover;
 }
 .oned{
-    margin: 0 1em;
+    margin: 0 2em;
     width: auto;
 }
 .child{
     font-weight: bold;
-    display: inline-block;
     margin-bottom: 1rem;
-    font-size:1.2vw !important;
+    font-size:1.5vw !important;
 }
 .resize-img{
     width: 10%;
@@ -107,6 +108,7 @@ li{
 .tecashi{
     display: inline-block;
     vertical-align: center;
+    color: #FCC719;
 }
 .childer{
     padding: 0 30%; 
@@ -118,4 +120,14 @@ li{
 }
 .no_size2{
     padding: 0 0 0 40px !important;
+}
+.rig{
+    float: right;
+    text-align: right;
+}
+.no-mar{
+    margin: 0 !important;
+}
+.pad-10l{
+    padding-left: 50px; 
 }
