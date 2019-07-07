@@ -1,3 +1,6 @@
+body{
+    overflow-x:hidden;
+}
 strong{
     font-weight: 500 !important;
 }
@@ -80,8 +83,8 @@ strong{
     margin: 0 25%;
 }
 .img-bok{
-    padding: 2px;
-    width: 20%;
+    padding: 4px;
+    width: 40%;
 }
 .imga-1{
     padding: 70px 0 0 0;
