@@ -1,0 +1,84 @@
+.earth{
+    position: relative;
+    display: inline-block;
+}
+.earth img.rost{
+    position: absolute;
+    bottom: 25px;
+    width: 5.5em;
+    left: 20%;
+}
+.earth img.rost2{
+    position: absolute;
+    bottom: 25px;
+    width: 5.5em;
+    left: 45%;
+}
+.after_foot{
+    margin-top: 600px; 
+}
+.named-1{
+    text-align: left;
+    font-size:2.5vw !important;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    color: #182552;
+}
+.all{
+    position: absolute;
+    width: 100%;
+}
+.central-main {
+    margin: 50px 2% 20px 2%;
+}
+.par{
+    display:block;
+    position:relative;
+}
+.chil{
+    display:inline-block;
+    margin-top: 10px;
+}
+.toping{
+    font-size:1.8vw !important;
+}
+.toping span{
+    font-weight: bold;
+    font-size:3vw !important;
+}
+.zhir{
+    color: #182552;
+    font-weight: bold;
+    font-size:1.3vw !important;
+}
+.maga-brat{
+    margin-top: 100px !important;
+}
+.maga{
+    margin-top: 70px;
+}
+.rigt{
+    text-align: end;
+}
+.mrgin_no{
+    color: #182552;
+    margin-bottom: 0 !important;
+    font-weight: 400;
+    font-size:1.3vw !important;
+}
+.img-main-top {
+    padding: 4px;
+    width: 30%;
+}
+/* .rost{
+    position: absolute;
+    width: 30%;
+    top:130px;
+}
+.rost2{
+    position: absolute;
+    width: 30%;
+    top:-30px;
+    right: 60px;
+} */

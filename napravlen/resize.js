@@ -13,3 +13,11 @@
       $('.img-bok').height($('.img-bok').width()/3);
     });
   });
+
+  // $(function(){
+  //   $('.rost').height($('.rost').width()/3);
+  
+  //   $(window).resize(function(){
+  //     $('.rost').height($('.rost').width()/3);
+  //   });
+  // });
