@@ -88,3 +88,15 @@
 .paderin{
     margin-bottom: 20px;
 }
+.logo-crt{
+    height: 250px;
+}
+.dr{
+    height: 100%;
+    width: 100%;
+    background: white;
+}
+.text-ofnd{
+    font-size: 2.3rem;
+    color: #182552;
+}
