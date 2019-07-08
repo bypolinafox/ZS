@@ -71,14 +71,20 @@
     padding: 4px;
     width: 30%;
 }
-/* .rost{
-    position: absolute;
-    width: 30%;
-    top:130px;
+.img-log{
+    width: 100%;
 }
-.rost2{
-    position: absolute;
-    width: 30%;
-    top:-30px;
-    right: 60px;
-} */
+.osnsvhead {
+    font-weight: 500 !important;
+    font-size: 16pt;
+    color: #182552;
+}
+.osnsv {
+    font-weight: 200;
+    font-size: 16pt;
+    color: #FCC719;
+    margin-left: 20px;
+}
+.paderin{
+    margin-bottom: 20px;
+}
