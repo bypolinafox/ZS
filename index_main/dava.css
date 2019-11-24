@@ -64,8 +64,14 @@
 .mrgin_no{
     color: #182552;
     margin-bottom: 0 !important;
-    font-weight: 400;
-    font-size:1.3vw !important;
+    font-weight: 100;
+    font-size:1.8vw !important;
+}
+.mrgin_no_plus_zhir{
+    color: #182552;
+    margin-bottom: 0 !important;
+    font-weight: bold;
+    font-size:1.8vw !important;
 }
 .img-main-top {
     padding: 4px;
@@ -99,4 +105,8 @@
 .text-ofnd{
     font-size: 2.3rem;
     color: #182552;
+}
+.head-margin{
+    margin: 20px;
+    margin-bottom: 50px !important;
 }
