@@ -14,9 +14,14 @@
     width: 5.5em;
     left: 45%;
 }
-.after_foot{
-    margin-top: 600px; 
+.content-place{
+    margin-top: 36vh;
 }
+@media (min-width: 1200px) {
+    .content-place{
+        margin-top: 40vw;
+    }
+  }
 .named-1{
     text-align: left;
     font-size:2.5vw !important;
