@@ -93,12 +93,12 @@
 }
 .osnsvhead {
     font-weight: 500 !important;
-    font-size: 16pt;
+    font-size: 1.6vw;
     color: #182552;
 }
 .osnsv {
     font-weight: 200;
-    font-size: 16pt;
+    font-size: 1.6vw;
     color: #FCC719;
 }
 .paderin{
@@ -140,4 +140,43 @@
 }
 .text-right{
     text-align: right !important;
+}
+.news-head{
+    font-size: 1.3vw;
+    color: #182552;
+    font-weight: 200;
+}
+.news-head:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.news-container-img{
+    width: 600px;
+    height: 300px;
+}
+.news-img{
+    width: 100% !important;
+    height: auto !important;
+}
+.news-block{
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.news-views{
+    font-size: 1vw;
+    color: #182552;
+    font-weight: 200;
+}
+.news-word{
+    padding-bottom: 30px;
+}
+.news-all{
+    font-size: 1vw;
+    color: #182552;
+    font-weight: 200;
+    padding-top: 40px;
+}
+.news-all:hover{
+    cursor: pointer;
+    text-decoration: underline;
 }
