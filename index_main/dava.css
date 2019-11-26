@@ -64,15 +64,21 @@
 .mrgin_no{
     color: #182552;
     margin-bottom: 0 !important;
-    font-weight: 400;
-    font-size:1.3vw !important;
+    font-weight: 100;
+    font-size:1.8vw !important;
+}
+.mrgin_no_plus_zhir{
+    color: #182552;
+    margin-bottom: 0 !important;
+    font-weight: bold;
+    font-size:1.8vw !important;
 }
 .img-main-top {
     padding: 4px;
     width: 30%;
 }
 .img-log{
-    width: 100%;
+    width: 90%;
 }
 .osnsvhead {
     font-weight: 500 !important;
@@ -83,13 +89,13 @@
     font-weight: 200;
     font-size: 16pt;
     color: #FCC719;
-    margin-left: 20px;
 }
 .paderin{
     margin-bottom: 20px;
 }
 .logo-crt{
     height: 250px;
+    margin-bottom: 0;
 }
 .dr{
     height: 100%;
@@ -99,4 +105,28 @@
 .text-ofnd{
     font-size: 2.3rem;
     color: #182552;
+}
+.head-margin{
+    margin: 20px;
+    margin-bottom: 50px !important;
+}
+.o-fonde-counts{
+    font-size:1.6vw !important;
+    line-height: 110% !important;
+}
+.o-fonde-counts span{
+    line-height: 120% !important;
+    font-weight: bold;
+    font-size:3vw !important;
+    color: #FCC719 !important;
+    margin-top: 20px !important;
+}
+.svedenia img.rost3{
+    position: absolute;
+    bottom: 25px;
+    width: 4.5em;
+    left: 20%;
+}
+.text-right{
+    text-align: right !important;
 }
